@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAI8lq8iDlNUqJskN/AFMQcAAAAAACAAAAAAAQZgAAAAEAACAAAAAkMyo5Sdt8bHnK0TM8RG7qTsjM3dI2ZLm+/qGaJXf8mAAAAAAOgAAAAAIAACAAAADCCrWFKZzdSmRPTMWyFRvj22Hf7CnibBiWH1lVaecu2IAAAAAKYXRijdZwrGGMJJohG/cR+UYp4dqZ+6agshx8aoGM8A05anPuu3eYBZicOrq0/RXIW3Tqf4yAFD2STw0zebRugoJXFlViZVJVCA/KispNyjcfGEK8kFdH3JR2KqR+GgUwRPjwo308DKip56Q6SFJJWO8ol3i0Gm+ApRDBtWa0OEAAAADeo7HCelDzRiYZ5UCnkWWewFkW5lClaqM0F1PteUTdttJsCEPPLv8aPkMGv9/5a5j+m5GpLEk+HDXdEBPbA6ms</EncryptedPassword>
+    <History>False|2022-06-30T02:24:30.0359415Z;False|2022-06-29T21:21:18.6184015-05:00;False|2022-06-29T21:20:17.1345780-05:00;False|2022-06-29T21:16:49.8345007-05:00;False|2022-06-29T21:15:00.0557589-05:00;True|2022-06-29T21:01:08.3567228-05:00;False|2022-06-29T20:58:20.5490827-05:00;False|2022-06-29T20:50:25.2463937-05:00;False|2022-06-29T20:48:37.1044703-05:00;False|2022-06-29T20:46:18.9776282-05:00;True|2022-06-29T20:42:10.3409586-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Algorithms.API.Domain.Persistence.Contexts.AppDbContext">
+      <Value>Data Source=tcp:algorithmsapidbserver.database.windows.net,1433%3bInitial Catalog=Algorithms.API_db%3bUser Id=lmef%40algorithmsapidbserver%3bPassword=Root1234</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

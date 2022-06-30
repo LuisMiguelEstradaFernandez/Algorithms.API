@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Universidad\Taller de Desempeño Profesional\Algorithms.API\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="D:\Universidad\Taller de Desempeño Profesional\Algorithms.API\obj\Release\net6.0\PubTmp\EFSQLScripts\Algorithms.API.Domain.Persistence.Contexts.AppDbContext.sql" />
+</sitemanifest>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AlgorithmsAPI20220629195925" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Universidad\\Taller\ de\ Desempeño\ Profesional\\Algorithms\.API\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Algorithms.API.Domain.Persistence.Contexts.AppDbContext" description="" value="Data Source=tcp:algorithmsapidbserver.database.windows.net,1433;Initial Catalog=Algorithms.API_db;User Id=lmef@algorithmsapidbserver;Password=Root1234" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Universidad\\Taller\ de\ Desempeño\ Profesional\\Algorithms\.API\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\Algorithms\.API\.Domain\.Persistence\.Contexts\.AppDbContext\.sql$" />
+  </parameter>
+</parameters>
